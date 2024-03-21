@@ -1,0 +1,7 @@
+{
+	"name": "mf_shared__event_handler",
+	"npm": true,
+	"version": "0.0.1",
+	"main": "src/index.te",
+	"repository": "https://github.com/andrey31453/mf_shared__event_handler.git"
+}
